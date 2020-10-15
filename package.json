@@ -1,0 +1,31 @@
+{
+  "name": "react-mini-toast",
+  "version": "0.1.0",
+  "description": "Delightful, simple, context-aware toast messages for React",
+  "main": "index.js",
+  "author": "victorocna <victor@chesscoders.com>",
+  "homepage": "https://github.com/victorocna/react-mini-toast",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victorocna/react-mini-toast.git"
+  },
+  "keywords": [
+    "react",
+    "toast",
+    "notify"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-plugin-react": "^7.21.4",
+    "prettier": "^2.1.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
